@@ -6,6 +6,6 @@ entries:
     digest: 5c2669aeab8480aaa62d844315baea3c379a0df15a7e949446dd7a3758def2f7
     name: erebus-operator
     urls:
-    - https://shyrkaio.github.io/helm/shyrkaio/erebus-operator-1.1.2.tgz
+    - https://www.shyrka.io/helm/shyrkaio/erebus-operator-1.1.2.tgz
     version: 1.1.2
 generated: "2021-01-17T18:00:16.353577+01:00"
